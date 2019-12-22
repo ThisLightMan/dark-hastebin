@@ -1,4 +1,5 @@
-# Haste
+# dark-hastebin
+Dark Hastebin is a hastebin fork that has an updated, clean, and dark theme. You can configure this fork in the dark_config.json file. Here's the haste-server readme:
 
 Haste is an open-source pastebin software written in node.js, which is easily
 installable in any network.  It can be backed by either redis or filesystem,
